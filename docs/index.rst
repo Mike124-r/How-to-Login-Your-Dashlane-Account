@@ -8,11 +8,11 @@ How to safely Login into your Dashlane account
 
 One of the most trustworthy password managers out there right now is Dashlane. It allows people keep their sensitive personal information, login information, and payment information in one secured vault. The first thing you need to do to make it work is log into your Dashlane account. If you want to use the service well, you need to know how to log in correctly, whether you're new to it or coming back after a break.
 
-.. image:: customer.jpg
+.. image:: click-login.png
    :alt: My Project Logo
    :width: 350px
    :align: center
-   :target: https://tek.chat/
+   :target: https://aclogportal.com/
 
 In this article, we'll show you all you need to know about logging into your Dashlane account, from the usual steps to follow to fix problems and access it on many devices.
 
