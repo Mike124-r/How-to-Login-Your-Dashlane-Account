@@ -1,4 +1,4 @@
-project = 'How-to-Login-Your-Dashlane-Account'
+project = 'Login-Your-Dashlane-Account'
 author = 'Your Name'
 release = '1.0'
 
